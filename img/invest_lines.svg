@@ -1,0 +1,26 @@
+<svg width="1209" height="608" viewBox="0 0 1209 608" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M287 188V607H386" stroke="#48D597"/>
+<path d="M1 455V548H29" stroke="#48D597"/>
+<line x1="197" y1="187.5" x2="375" y2="187.5" stroke="#48D597"/>
+<path d="M1 94V1H102" stroke="#48D597"/>
+<path d="M296 1H381" stroke="#48D597"/>
+<path d="M222 548H287" stroke="#48D597"/>
+<line x1="288" y1="247.5" x2="378" y2="247.5" stroke="#48D597"/>
+<line x1="288" y1="307.5" x2="380" y2="307.5" stroke="#48D597"/>
+<line x1="288" y1="367.5" x2="382" y2="367.5" stroke="#48D597"/>
+<line x1="288" y1="427.5" x2="382" y2="427.5" stroke="#48D597"/>
+<line x1="288" y1="487.5" x2="384" y2="487.5" stroke="#48D597"/>
+<line x1="288" y1="547.5" x2="384" y2="547.5" stroke="#48D597"/>
+<path d="M922 188V607H823" stroke="#48D597"/>
+<path d="M825 1L926 1.00001" stroke="#48D597"/>
+<path d="M922 548L985 548" stroke="#48D597"/>
+<path d="M1208 455V548H1178" stroke="#48D597"/>
+<path d="M1208 94V1H1119" stroke="#48D597"/>
+<line y1="-0.5" x2="90" y2="-0.5" transform="matrix(-1 0 0 1 921 248)" stroke="#48D597"/>
+<line y1="-0.5" x2="92" y2="-0.5" transform="matrix(-1 0 0 1 921 308)" stroke="#48D597"/>
+<line y1="-0.5" x2="94" y2="-0.5" transform="matrix(-1 0 0 1 921 368)" stroke="#48D597"/>
+<line y1="-0.5" x2="94" y2="-0.5" transform="matrix(-1 0 0 1 921 428)" stroke="#48D597"/>
+<line x1="827" y1="187.5" x2="1005" y2="187.5" stroke="#48D597"/>
+<line y1="-0.5" x2="96" y2="-0.5" transform="matrix(-1 0 0 1 921 488)" stroke="#48D597"/>
+<line y1="-0.5" x2="96" y2="-0.5" transform="matrix(-1 0 0 1 921 548)" stroke="#48D597"/>
+</svg>

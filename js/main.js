@@ -6,11 +6,11 @@ window.addEventListener('scroll', (e) =>{
          heroImage = document.querySelector('.hero__photo');
 
    topline.forEach(function(line) {
-      line.style.transform = 'translate3d(0px,'+rate+'px, 0)';
+      line.style.transform = 'translate3d(0px,-'+rate+'px, 0)';
    });
 
    bottomline.forEach(function(line) {
-      line.style.transform = 'translate3d(0px,-'+rate+'px, 0)';
+      line.style.transform = 'translate3d(0px,'+rate+'px, 0)';
    });
 
    heroImage.style.transform = 'matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, '+rate+', 0, 1)';
